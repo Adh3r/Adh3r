@@ -1,10 +1,14 @@
 # Adam Ruiz Herrero
 
-**Engineering student at EETAC – Universitat Politècnica de Catalunya (UPC), Spain.**
+**B.Sc. in Aerospace Systems Engineering, EETAC – Universitat Politècnica de Catalunya (UPC), Spain**
+Navigational Systems specialisation · final-year courses · expected graduation 2027–28
 I write simulation, estimation and optimisation software for aerospace problems, and I
 validate it against theory and published benchmarks.
 
-🎯 **Seeking internships in GNC, radar, UAV and defense systems engineering.**
+🎯 **Seeking an internship in GNC, radar, UAV or defense systems engineering.**
+Full-time from **23 June 2027**, or part-time from **January 2027** · open to an industry Bachelor's thesis
+
+📧 [adruizherrero@gmail.com](mailto:adruizherrero@gmail.com) · 🗣️ Spanish (native) · Catalan (C1) · English (B2, C1 in progress)
 
 ## Projects
 
